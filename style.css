@@ -1,0 +1,33 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.container{
+    width: 1000px;
+    margin: auto;
+}
+.banner{
+    background-color: gray;
+   
+}
+.banner .title h1{
+    
+    text-align: center;
+    font-family: sans-serif;
+    font-size: 40PX;
+    line-height: 200px;
+}
+.container .pharagrap {
+    padding-top: 70px;
+   line-height: 40px;
+}
+.pharagrap h2 {
+    font-family: sans-serif;
+}
+.pharagrap h4{
+    font-family: sans-serif;
+}
+.pharagrap p{
+    color: gray;
+}
